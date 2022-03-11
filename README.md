@@ -23,7 +23,7 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Teba
+Teba..
 ```
 
 ## reject - QA offers
