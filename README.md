@@ -35,6 +35,8 @@ It does however mean that I don't have the time to hop on a call with everyone w
 
 I would love to continue the conversation, but I moved to an Engineering Manager position some time ago and I'm not interested in QA/SDET related positions anymore. 
 
+While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
+
 Thanks again for reaching out!
 
 Teba
